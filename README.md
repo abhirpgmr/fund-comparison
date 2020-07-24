@@ -27,3 +27,18 @@ a) Getting Stock data from Yahoo Finance and Calculating the Percentage Adjacent
 b) Grouping those returns as per the fund and Finding the value of 100 Rupees investment in each asset from the Percentage Adjacent Returns (Value of 100 = 100+(100*Percentage of the Adj.Return))
 
 c) Finding the correlation matrix for the 100 Rupees Investment value for various  stocks and charting the data of stocks which have low correlation and high correlation.
+
+After the analysis the least and highest correlations for the corresponding funds are as follows
+
+Axis Bluechip Fund - 0.28,0.67
+
+Canara Robeco Bluechip Fund - 0.38,0.81
+
+ICICI Prudential Bluechip Fund - 0.17,0.55
+
+Mirae Asset Emerging Bluechip Fund - 0.42, 0.87
+
+Conclusion :
+
+Observing the respective maximum and minimum correlations of each of these funds,It is advisable to chose "ICICI Prudential Bluechip Fund" which is found to be well diversified and can make the investment safer even with considerable amount of risk in hard times like COVID Pandemic.On the other hand,"Mirae Asset Emerging Bluechip Fund" showed very poor results that indicates risk of high volatility which mean investment in this fund fluctuates more often that can cause investor to panic.  
+
